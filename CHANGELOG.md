@@ -1,9 +1,9 @@
-# 1.138.0 (2023-06-03)
+## 1.139.17 (2023-06-08)
 
 
-### Features
+### Bug Fixes
 
-* remove single user mode ([#7350](https://github.com/EddieHubCommunity/LinkFree/issues/7350)) ([679cca0](https://github.com/EddieHubCommunity/LinkFree/commit/679cca0a3c5c8505de7576fd00418af702f2f05b))
+* quickstart example list in older browsers ([#7337](https://github.com/EddieHubCommunity/LinkFree/issues/7337)) ([e2416da](https://github.com/EddieHubCommunity/LinkFree/commit/e2416daee4eb06df62eded88c09310eede898a97))
 
 
 
